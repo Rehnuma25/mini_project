@@ -39,11 +39,11 @@ such as age, blood pressure, cholesterol levels, and more.
 
 ## 🧠 How It Works
 1. The user enters 13 values in this format:
-   ```python
-   [age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal]
-   💗 Then it run perfectly...
+   python
+   [age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal].
    
-   ******The result is displayed clearly with large, bold colored text using HTML styling:
+   💗 Then it run perfectly...
+   ******The result is displayed clearly with large, bold colored text using HTML styling.
   🔴 You may have heart disease.
   🟢 You are safe.
 
